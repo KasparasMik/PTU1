@@ -1,1 +1,0 @@
-# Pirmas Python failas sync

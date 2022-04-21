@@ -1,0 +1,1594 @@
+('C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+ 'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\build\\Main\\PYZ-00.pyz',
+ [('os',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\selectors.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\typing.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\socket.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\ssl.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\getopt.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\optparse.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\token.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\csv.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\struct.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\gettext.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\stat.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('funkcijos',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\funkcijos.py',
+   'PYMODULE'),
+  ('create_db',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\create_db.py',
+   'PYMODULE'),
+  ('sqlalchemy.ext.declarative',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\ext\\declarative\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.ext',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\ext\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.decl_api',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\decl_api.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.schema',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\schema.py',
+   'PYMODULE'),
+  ('sqlalchemy.event',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\event\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.event.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\event\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.event.attr',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\event\\attr.py',
+   'PYMODULE'),
+  ('sqlalchemy.util.concurrency',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\concurrency.py',
+   'PYMODULE'),
+  ('sqlalchemy.util._compat_py3k',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\_compat_py3k.py',
+   'PYMODULE'),
+  ('sqlalchemy.util._concurrency_py3k',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\_concurrency_py3k.py',
+   'PYMODULE'),
+  ('sqlalchemy.util.langhelpers',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\langhelpers.py',
+   'PYMODULE'),
+  ('sqlalchemy.util._collections',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\_collections.py',
+   'PYMODULE'),
+  ('greenlet',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\greenlet\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.util.compat',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\compat.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('sqlalchemy.event.api',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\event\\api.py',
+   'PYMODULE'),
+  ('sqlalchemy.event.registry',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\event\\registry.py',
+   'PYMODULE'),
+  ('sqlalchemy.event.legacy',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\event\\legacy.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.selectable',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\selectable.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.annotation',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\annotation.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.traversals',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\traversals.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.compiler',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\compiler.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.sqltypes',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\sqltypes.py',
+   'PYMODULE'),
+  ('sqlalchemy.processors',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\processors.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.functions',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\functions.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.util',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\util.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.crud',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\crud.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.dml',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\dml.py',
+   'PYMODULE'),
+  ('sqlalchemy.types',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\types.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.operators',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\operators.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.elements',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\elements.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.visitors',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\visitors.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.type_api',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\type_api.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.roles',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\roles.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.ddl',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\ddl.py',
+   'PYMODULE'),
+  ('sqlalchemy.util.topological',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\topological.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.coercions',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\coercions.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.naming',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\naming.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.lambdas',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\lambdas.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.events',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\events.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.expression',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\expression.py',
+   'PYMODULE'),
+  ('sqlalchemy.inspection',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\inspection.py',
+   'PYMODULE'),
+  ('sqlalchemy.exc',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\exc.py',
+   'PYMODULE'),
+  ('sqlalchemy.util._preloaded',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\_preloaded.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.descriptor_props',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\descriptor_props.py',
+   'PYMODULE'),
+  ('sqlalchemy.schema',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\schema.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.util',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\util.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.dependency',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\dependency.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.sync',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\sync.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.session',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\session.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.util',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\util.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.characteristics',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\characteristics.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.row',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\row.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.reflection',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\reflection.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.mock',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\mock.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.interfaces',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\interfaces.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.cursor',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\cursor.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.create',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\create.py',
+   'PYMODULE'),
+  ('sqlalchemy.future',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\future\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.future.engine',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\future\\engine.py',
+   'PYMODULE'),
+  ('sqlalchemy.pool',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\pool\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.pool.impl',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\pool\\impl.py',
+   'PYMODULE'),
+  ('sqlalchemy.util.queue',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\queue.py',
+   'PYMODULE'),
+  ('sqlalchemy.pool.dbapi_proxy',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\pool\\dbapi_proxy.py',
+   'PYMODULE'),
+  ('sqlalchemy.pool.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\pool\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.log',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\log.py',
+   'PYMODULE'),
+  ('sqlalchemy.pool.events',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\pool\\events.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.url',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\url.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.events',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\events.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.state',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\state.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.query',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\query.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.persistence',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\persistence.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.evaluator',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\evaluator.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.loading',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\loading.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.strategy_options',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\strategy_options.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.identity',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\identity.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.context',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\context.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.unitofwork',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\unitofwork.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.result',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\result.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.path_registry',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\path_registry.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.decl_base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\decl_base.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.properties',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\properties.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.relationships',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\relationships.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.mapper',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\mapper.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.interfaces',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\interfaces.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.instrumentation',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\instrumentation.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.collections',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\collections.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.exc',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\exc.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.clsregistry',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\clsregistry.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.attributes',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\attributes.py',
+   'PYMODULE'),
+  ('sqlalchemy.util',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.util.deprecations',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\util\\deprecations.py',
+   'PYMODULE'),
+  ('sqlalchemy.ext.declarative.extensions',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\ext\\declarative\\extensions.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.dynamic',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\dynamic.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.strategies',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\strategies.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.scoping',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\scoping.py',
+   'PYMODULE'),
+  ('sqlalchemy.orm.events',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\orm\\events.py',
+   'PYMODULE'),
+  ('sqlalchemy',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sybase',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sybase\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sybase.pysybase',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sybase\\pysybase.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sybase.pyodbc',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sybase\\pyodbc.py',
+   'PYMODULE'),
+  ('sqlalchemy.connectors.pyodbc',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\connectors\\pyodbc.py',
+   'PYMODULE'),
+  ('sqlalchemy.connectors',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\connectors\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sybase.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sybase\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.engine.default',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\engine\\default.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sqlite',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sqlite\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sqlite.aiosqlite',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sqlite\\aiosqlite.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sqlite.dml',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sqlite\\dml.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sqlite.pysqlite',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sqlite\\pysqlite.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sqlite.pysqlcipher',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sqlite\\pysqlcipher.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sqlite.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sqlite\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.sqlite.json',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\sqlite\\json.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.asyncpg',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\asyncpg.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3312.0_x64__qbz5n2kfra8p0\\lib\\uuid.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.pypostgresql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\pypostgresql.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.pygresql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\pygresql.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.psycopg2cffi',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\psycopg2cffi.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.psycopg2',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\psycopg2.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.pg8000',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\pg8000.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.ranges',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\ranges.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.json',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\json.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.hstore',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\hstore.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.dml',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\dml.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.ext',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\ext.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.postgresql.array',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\postgresql\\array.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.oracle',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\oracle\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.oracle.cx_oracle',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\oracle\\cx_oracle.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.oracle.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\oracle\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.asyncmy',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\asyncmy.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.aiomysql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\aiomysql.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.expression',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\expression.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.dml',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\dml.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.pyodbc',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\pyodbc.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.types',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\types.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.pymysql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\pymysql.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.oursql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\oursql.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.mysqldb',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\mysqldb.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.mysqlconnector',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\mysqlconnector.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.mariadbconnector',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\mariadbconnector.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.cymysql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\cymysql.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.reserved_words',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\reserved_words.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.json',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\json.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.enumerated',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\enumerated.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mysql.reflection',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mysql\\reflection.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mssql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mssql\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mssql.pyodbc',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mssql\\pyodbc.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mssql.pymssql',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mssql\\pymssql.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mssql.mxodbc',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mssql\\mxodbc.py',
+   'PYMODULE'),
+  ('sqlalchemy.connectors.mxodbc',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\connectors\\mxodbc.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mssql.information_schema',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mssql\\information_schema.py',
+   'PYMODULE'),
+  ('sqlalchemy.ext.compiler',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\ext\\compiler.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mssql.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mssql\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.mssql.json',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\mssql\\json.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.firebird',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\firebird\\__init__.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.firebird.kinterbasdb',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\firebird\\kinterbasdb.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.firebird.fdb',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\firebird\\fdb.py',
+   'PYMODULE'),
+  ('sqlalchemy.dialects.firebird.base',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\dialects\\firebird\\base.py',
+   'PYMODULE'),
+  ('sqlalchemy.sql.default_comparator',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\sql\\default_comparator.py',
+   'PYMODULE'),
+  ('sqlalchemy.ext.baked',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\ext\\baked.py',
+   'PYMODULE'),
+  ('sqlalchemy.events',
+   'C:\\Users\\kompi\\Desktop\\Learning\\Codeacademy\\Python 1_ir_2 '
+   'Lygis\\Kurso_darbai_CLASSWORK\\1_Tarpinis_atsiskaitymas\\venv\\lib\\site-packages\\sqlalchemy\\events.py',
+   'PYMODULE')])

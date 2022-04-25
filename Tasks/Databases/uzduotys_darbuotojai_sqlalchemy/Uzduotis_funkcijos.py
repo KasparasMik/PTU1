@@ -177,7 +177,7 @@ def naujas_langas_visi_darbuotojai():
     freimas = Frame(naujas_langas)
     uzrasas1 = Label(freimas, text= "Visi darbuotojai :")
     scrollbaras = Scrollbar(naujas_langas) # Scroll baras
-    -
+    
     saraso_deze = Listbox(naujas_langas, width= 45 , height= 35, yscrollcommand=scrollbaras.set) # sulinkina scroll bara su langu
     scrollbaras.config(command=saraso_deze.yview)  # o cia kai scrolinsim
     
